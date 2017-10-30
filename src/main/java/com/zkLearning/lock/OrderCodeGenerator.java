@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Description
+ * 生成订单号
  *
  * @author chenxyz
  * @version 1.0

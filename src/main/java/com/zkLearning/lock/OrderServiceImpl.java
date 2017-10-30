@@ -7,12 +7,11 @@ import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.locks.Lock;
 
 /**
- * Description
+ * 测试分布式锁的service
  *
- * @author chenlinchao
+ * @author chenxyz
  * @version 1.0
  * @date 2017-10-30
- * Copyright 青海粮食云项目组
  */
 public class OrderServiceImpl implements Runnable {
 
